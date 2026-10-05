@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Root-level CSV data and image files
+/*.csv
+/*.xlsx
+/*.xls
+/*.xlsm
+/*.xlsb
+/*.avif
+/*.bmp
+/*.gif
+/*.heic
+/*.ico
+/*.jpeg
+/*.jpg
+/*.png
+/*.svg
+/*.tif
+/*.tiff
+/*.webp
